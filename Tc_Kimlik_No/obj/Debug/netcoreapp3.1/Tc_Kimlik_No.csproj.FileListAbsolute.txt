@@ -1,0 +1,14 @@
+D:\Tc_Kimlik_No\Tc_Kimlik_No\bin\Debug\netcoreapp3.1\Tc_Kimlik_No.exe
+D:\Tc_Kimlik_No\Tc_Kimlik_No\bin\Debug\netcoreapp3.1\Tc_Kimlik_No.deps.json
+D:\Tc_Kimlik_No\Tc_Kimlik_No\bin\Debug\netcoreapp3.1\Tc_Kimlik_No.runtimeconfig.json
+D:\Tc_Kimlik_No\Tc_Kimlik_No\bin\Debug\netcoreapp3.1\Tc_Kimlik_No.runtimeconfig.dev.json
+D:\Tc_Kimlik_No\Tc_Kimlik_No\bin\Debug\netcoreapp3.1\Tc_Kimlik_No.dll
+D:\Tc_Kimlik_No\Tc_Kimlik_No\bin\Debug\netcoreapp3.1\Tc_Kimlik_No.pdb
+D:\Tc_Kimlik_No\Tc_Kimlik_No\obj\Debug\netcoreapp3.1\Tc_Kimlik_No.csproj.AssemblyReference.cache
+D:\Tc_Kimlik_No\Tc_Kimlik_No\obj\Debug\netcoreapp3.1\Tc_Kimlik_No.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tc_Kimlik_No\Tc_Kimlik_No\obj\Debug\netcoreapp3.1\Tc_Kimlik_No.AssemblyInfoInputs.cache
+D:\Tc_Kimlik_No\Tc_Kimlik_No\obj\Debug\netcoreapp3.1\Tc_Kimlik_No.AssemblyInfo.cs
+D:\Tc_Kimlik_No\Tc_Kimlik_No\obj\Debug\netcoreapp3.1\Tc_Kimlik_No.csproj.CoreCompileInputs.cache
+D:\Tc_Kimlik_No\Tc_Kimlik_No\obj\Debug\netcoreapp3.1\Tc_Kimlik_No.dll
+D:\Tc_Kimlik_No\Tc_Kimlik_No\obj\Debug\netcoreapp3.1\Tc_Kimlik_No.pdb
+D:\Tc_Kimlik_No\Tc_Kimlik_No\obj\Debug\netcoreapp3.1\Tc_Kimlik_No.genruntimeconfig.cache

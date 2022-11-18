@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YWFiGoZz/A2xRv2bxYU/RB2IxWGK5c1uazkAmloG4FYZLYlj+TMRRCj4fNLY3tl/1Igo3LMmhzHd8fKkACLtHA==",
+  "success": true,
+  "projectFilePath": "D:\\Tc_Kimlik_No\\Tc_Kimlik_No\\Tc_Kimlik_No.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tugru\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
